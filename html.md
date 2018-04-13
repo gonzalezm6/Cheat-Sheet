@@ -56,7 +56,7 @@ The ```<a>``` tag is used to implement links in HTML.
 
 For example:
 ```
-<a href = https://github.com/gonzalezm6> This is the text that will show as a hyperlink </a>
+<a href = "https://github.com/gonzalezm6"> This is the text that will show as a hyperlink </a>
 ```
 
 ```href``` is an attribute used to define the link.
